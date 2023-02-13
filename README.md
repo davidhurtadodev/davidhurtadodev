@@ -1,4 +1,4 @@
-### Hi 👋, my name is David Hurtado. I'm a Frontend Developer based in Barcelona, Spain. I love coding reusable components for building clean and scalable applications.
+### Hi 👋, my name is David Hurtado. I'm a Frontend Developer based in Barcelona, Spain. I love coding reusable components for building scalable applications. Clean and modular code is the way.
 
 
 * :heart: I'm in love with **React** and **TypeScript**.
